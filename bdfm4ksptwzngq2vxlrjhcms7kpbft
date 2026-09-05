@@ -27,16 +27,6 @@ local _call30 = _LocalPlayer27:WaitForChild('PlayerGui')
 
 warn('[Chrome Code Sniper][BOOT] client_ready')
 warn('[Chrome Code Sniper][SOLVER] Route: LOCAL/LORE -> NEMOTRON -> FAST AI SEARCH')
-
-type(genv)
-
-local _ = genv.CHROME_NVIDIA_API_KEY
-local _ = genv.CHROME_DISCORD_WEBHOOK
-local _ = genv.CHROME_LOOKUP_URL
-local _ = genv.CHROME_LOOKUP_TOKEN
-local _ = genv.CHROME_LORE_FEED_URL
-local _ = fenv.syn
-local _ = http.request
 local _call42 = _callcloneref18:JSONEncode({
     retypeInvalid = false,
     autoSubmit = true,
