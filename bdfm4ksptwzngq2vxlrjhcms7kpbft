@@ -1025,4 +1025,4 @@ _callcloneref15.InputChanged:Connect(function(_841) end)
 _call326.Activated:Connect(function() end)
 warn('[Chrome Code Sniper][SOLVER][LOCAL] LORE:Fisher + RAW:82')
 tostring(_LocalPlayer27.DisplayName):gsub('<[^>]->', '')
-error('internal 583: <25ms: infinitelooperror>')
+
